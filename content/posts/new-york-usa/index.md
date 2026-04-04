@@ -121,4 +121,4 @@ Understanding the potential costs of your trip can help you plan effectively. He
 
 7. **Stay Hydrated:** With all the walking and exploring, keep a water bottle handy to stay hydrated throughout your adventures.
 
-New York City is an extraordinary destination filled with endless possibilities. Whether you’re an art enthusiast, a foodie, or a history buff, there's something for everyone in this dynamic city. If you're also considering a trip to [Havana, Cuba](/posts/havana-cuba/) or [Cancun, Mexico](/posts/cancun-mexico/), check out our guide for more travel tips. Enjoy your New York adventure!
+New York City is an extraordinary destination filled with endless possibilities. Whether you’re an art enthusiast, a foodie, or a history buff, there's something for everyone in this dynamic city. If you're also considering a trip to Havana, Cuba or Cancun, Mexico, check out our guide for more travel tips. Enjoy your New York adventure!

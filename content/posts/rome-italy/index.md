@@ -118,6 +118,6 @@ Understanding the cost of your trip can help you plan effectively. Here’s a ro
 
 7. **Plan Ahead**: Popular attractions like the Vatican and the Colosseum can get crowded. Book tickets in advance to save time and ensure entry.
 
-If you're also considering a trip to [Porto, Portugal](/posts/porto-portugal/) or [Seville, Spain](/posts/seville-spain/), check out our guide for tips on those destinations to round out your European adventure. And if you're intrigued by medieval charm, don't miss our guide on [Bruges, Belgium](/posts/bruges-belgium/). 
+If you're also considering a trip to Porto, Portugal or Seville, Spain, check out our guide for tips on those destinations to round out your European adventure. And if you're intrigued by medieval charm, don't miss our guide on Bruges, Belgium. 
 
 With its rich history, stunning architecture, and delectable cuisine, Rome promises an unforgettable experience for every traveler. Embrace the charm of the city, and you’ll leave with memories that last a lifetime.

@@ -122,6 +122,6 @@ Understanding the budget for your Amsterdam trip can help you plan effectively. 
 
 7. **Cultural Etiquette**: Respect local customs and be mindful of noise levels, especially in residential areas. The Dutch value personal space, so be considerate when interacting with locals.
 
-If you're planning to explore more of Europe, consider visiting [Nice, France](/posts/nice-france/) or taking a trip to [Lake Bled, Slovenia](/posts/lake-bled-slovenia/) for a different cultural experience. Alternatively, check out our guide on [Tallinn, Estonia](/posts/tallinn-estonia/) for another charming European destination. 
+If you're planning to explore more of Europe, consider visiting Nice, France or taking a trip to Lake Bled, Slovenia for a different cultural experience. Alternatively, check out our guide on Tallinn, Estonia for another charming European destination. 
 
 Amsterdam is a city that offers a little something for everyone, making it an unforgettable stop on your European adventure. Enjoy your travels!

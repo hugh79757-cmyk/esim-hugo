@@ -152,4 +152,4 @@ These estimates can help you gauge your spending and adjust your plans according
 
 7. **Plan Ahead**: Popular attractions can sell out quickly, especially during peak seasons. Booking tickets in advance can save you time and ensure you don’t miss out.
 
-With these tips and insights, you’re well-equipped to make the most of your visit to London. Whether you’re exploring the historical sites, indulging in local cuisine, or simply soaking up the city’s atmosphere, your adventure in London is sure to be unforgettable. If you're also considering a trip to [Copenhagen, Denmark](/posts/copenhagen-denmark/) or [Dubrovnik, Croatia](/posts/dubrovnik-croatia/), check out our guides for more travel inspiration!
+With these tips and insights, you’re well-equipped to make the most of your visit to London. Whether you’re exploring the historical sites, indulging in local cuisine, or simply soaking up the city’s atmosphere, your adventure in London is sure to be unforgettable. If you're also considering a trip to Copenhagen, Denmark or Dubrovnik, Croatia, check out our guides for more travel inspiration!

@@ -118,4 +118,4 @@ Keep in mind that prices can vary significantly depending on the season and loca
 
 7. **Public Transport Tips**: Use the Istanbulkart for easy access to public transport. It’s convenient and saves you from buying individual tickets for each journey.
 
-With its rich history, vibrant culture, and mouthwatering cuisine, Istanbul is a destination that promises an unforgettable adventure. Whether you're wandering through ancient streets, sipping tea by the Bosphorus, or indulging in local delicacies, this city has something for everyone. If you're also considering a trip to [Porto, Portugal](/posts/porto-portugal/) or [Seville, Spain](/posts/seville-spain/), check out our guide for additional travel inspiration.
+With its rich history, vibrant culture, and mouthwatering cuisine, Istanbul is a destination that promises an unforgettable adventure. Whether you're wandering through ancient streets, sipping tea by the Bosphorus, or indulging in local delicacies, this city has something for everyone. If you're also considering a trip to Porto, Portugal or Seville, Spain, check out our guide for additional travel inspiration.

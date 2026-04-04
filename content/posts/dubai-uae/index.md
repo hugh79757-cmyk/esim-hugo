@@ -146,4 +146,4 @@ Understanding your budget can help you plan a memorable trip to Dubai without ov
 
 7. **Cash vs. Card**: While credit cards are widely accepted, it’s a good idea to carry some cash for small purchases, especially in markets.
 
-Exploring Dubai can be an exhilarating experience filled with unforgettable memories. With its blend of modernity and tradition, you're bound to discover local secrets, vibrant neighborhoods, and hidden gems that will leave you wanting more. If you're also considering a trip to [Petra, Jordan](/posts/petra-jordan/), check out our guide for more travel inspiration.
+Exploring Dubai can be an exhilarating experience filled with unforgettable memories. With its blend of modernity and tradition, you're bound to discover local secrets, vibrant neighborhoods, and hidden gems that will leave you wanting more. If you're also considering a trip to Petra, Jordan, check out our guide for more travel inspiration.

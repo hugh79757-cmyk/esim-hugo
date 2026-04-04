@@ -134,4 +134,4 @@ To ensure a smooth and enjoyable trip to Bali, keep these practical tips in mind
 
 7. **Cash is King**: While many places accept credit cards, having cash on hand is essential, especially for small vendors and local markets.
 
-With these tips in your back pocket, you’ll be well-equipped to enjoy Bali like a local. If you're also considering a trip to [Hoi An, Vietnam](/posts/hoi-an-vietnam/) or [Kuala Lumpur, Malaysia](/posts/kuala-lumpur-malaysia/), check out our guides for more travel insights. Exploring Southeast Asia can truly be an unforgettable adventure!
+With these tips in your back pocket, you’ll be well-equipped to enjoy Bali like a local. If you're also considering a trip to Hoi An, Vietnam or Kuala Lumpur, Malaysia, check out our guides for more travel insights. Exploring Southeast Asia can truly be an unforgettable adventure!

@@ -116,4 +116,4 @@ Understanding the cost of your Tokyo trip can help you plan effectively. Here’
 
 7. **Scams to Avoid**: Tokyo is largely free of scams, but be cautious of overly friendly strangers offering unsolicited assistance or deals that seem too good to be true.
 
-Exploring Tokyo is an adventure filled with rich history, stunning sights, and unforgettable culinary experiences. Whether you’re visiting for a week or just a few days, the city has something for everyone to enjoy. If you're also considering a trip to [Taipei, Taiwan](/posts/taipei-taiwan/), check out our guide for more travel inspiration!
+Exploring Tokyo is an adventure filled with rich history, stunning sights, and unforgettable culinary experiences. Whether you’re visiting for a week or just a few days, the city has something for everyone to enjoy. If you're also considering a trip to Taipei, Taiwan, check out our guide for more travel inspiration!
