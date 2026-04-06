@@ -15,7 +15,6 @@ showTableOfContents: true
 ---
 Photo by [kevin grieve](https://www.pexels.com/@kevin-grieve-99378594) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,7 +50,6 @@ Additionally, eSIMs can be activated remotely, meaning you can set up your mobil
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 In the UK, there are currently 13 eSIM plans available from ukimobile, ranging from basic data options to more robust packages that include calls and SMS. Let’s take a closer look at the available plans:
 
@@ -150,12 +148,10 @@ By following these tips and choosing the right eSIM plan, you’ll be well-equip
 
 **[5 gb, 30 days — $16.00](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6803&u=https%3A%2F%2Fwww.airalo.com%2Funited-kingdom-esim%2Fuki-mobile-plus-30days-5gb&intsrc=CATF_15506)**
 
-
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 
