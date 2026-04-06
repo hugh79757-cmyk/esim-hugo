@@ -17,6 +17,20 @@ showTableOfContents: true
 
 Photo by [Thilina Alagiyawanna](https://www.pexels.com/@thilina-alagiyawanna-3266092) on [Pexels](https://www.pexels.com)
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
+     crossorigin="anonymous"></script>
+<!-- ETAP -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8772455780561463"
+     data-ad-slot="4276065235"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Traveling to Sri Lanka offers a unique blend of stunning landscapes, rich culture, and warm hospitality. However, staying connected while exploring this beautiful island can be a challenge if you're not prepared. An eSIM (embedded SIM) can provide you with a seamless way to access mobile data without the need for a physical SIM card. In this guide, we will explore the benefits of using an eSIM in Sri Lanka, compare the available plans, and provide practical tips for staying connected during your travels.
 
 ## Why Get an eSIM for Sri Lanka
@@ -36,6 +50,20 @@ An eSIM is a digital SIM that allows you to activate a cellular plan from your c
 4. **No Physical Exchange**: Avoid the hassle of replacing physical SIM cards, which can be lost or damaged during your travels.
 
 ## Available Plans Compared
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
+     crossorigin="anonymous"></script>
+<!-- ETAP -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8772455780561463"
+     data-ad-slot="4276065235"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 Sri Lanka offers a variety of eSIM plans tailored to different needs and budgets. Here’s a breakdown of the available options:
 
@@ -207,5 +235,15 @@ From **$ 9.0**
 [Book Now](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6751&u=https%3A%2F%2Fwww.airalo.com%2Fsri-lanka-esim%2Fellaplus-30days-5gb&intsrc=CATF_15506)
 
 ---
+
+</div>
+
+<div class="etap-disclaimer-card">
+
+> **📌 정보 안내 (Information Notice)**
+> 
+> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
+> 
+> Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 
 </div>
