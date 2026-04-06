@@ -130,6 +130,38 @@ To make the most of your eSIM experience in the UK, consider the following tips:
 5. **Stay Informed**: Familiarize yourself with local apps and services that can enhance your travel experience. For example, local transportation apps can be invaluable for navigating public transit.
 
 By following these tips and choosing the right eSIM plan, you’ll be well-equipped to stay connected during your visit to the United Kingdom, ensuring a smooth and enjoyable travel experience.
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Highland Whisky Distilleries Shore Trip from Invergordon Cruise Port](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0c/7e/0e.jpg)](https://www.viator.com/tours/Invergordon/Highland-Whisky-Distilleries-Shore-Trip-from-Invergordon-Cruise-Port/d4481-122150P26?pid=P00295226&mcid=42383&medium=link)
+
+**[Highland Whisky Distilleries Shore Trip from Invergordon Cruise Port](https://www.viator.com/tours/Invergordon/Highland-Whisky-Distilleries-Shore-Trip-from-Invergordon-Cruise-Port/d4481-122150P26?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-14%</span>
+
+_Full-day Tours_
+
+From **$786**
+
+[Book Now →](https://www.viator.com/tours/Invergordon/Highland-Whisky-Distilleries-Shore-Trip-from-Invergordon-Cruise-Port/d4481-122150P26?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Orkney Ancient Tomb And Coastal Heritage Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/ba/80/47/caption.jpg)](https://www.viator.com/tours/Scotland/Orkney-Ancient-Tomb-And-Coastal-Heritage-Tour/d732-5527948P6?pid=P00295226&mcid=42383&medium=link)
+
+**[Orkney Ancient Tomb And Coastal Heritage Tour](https://www.viator.com/tours/Scotland/Orkney-Ancient-Tomb-And-Coastal-Heritage-Tour/d732-5527948P6?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+
+_Day Trips_
+
+From **$194**
+
+[Book Now →](https://www.viator.com/tours/Scotland/Orkney-Ancient-Tomb-And-Coastal-Heritage-Tour/d732-5527948P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Buy Your eSIM Now
 
 **[1 gb, 7 days — $4.50](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6785&u=https%3A%2F%2Fwww.airalo.com%2Funited-kingdom-esim%2Fuki-mobile-7days-1gb&intsrc=CATF_15506)**
