@@ -15,8 +15,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Cody](https://www.pexels.com/@cody-157460211) on [Pexels](https://www.pexels.com)
-
 ## Why Get an eSIM for United States
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-united-states/body_1.jpg)

@@ -15,8 +15,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Artūras Kokorevas](https://www.pexels.com/@kokorevas) on [Pexels](https://www.pexels.com)
-
 Traveling to Iceland can be an exhilarating experience, filled with stunning landscapes and unique cultural encounters. As you navigate this beautiful country, staying connected is essential. An eSIM offers a convenient and flexible solution for travelers looking to access mobile data without the hassle of physical SIM cards. 
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"

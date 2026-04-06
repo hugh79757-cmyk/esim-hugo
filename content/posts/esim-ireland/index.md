@@ -15,8 +15,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Donovan Kelly](https://www.pexels.com/@donovan-kelly-110228397) on [Pexels](https://www.pexels.com)
-
 ## Why Get an eSIM for Ireland
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-ireland/body_1.jpg)

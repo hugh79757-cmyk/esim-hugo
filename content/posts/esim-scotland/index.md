@@ -15,8 +15,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Alasdair  Braxton](https://www.pexels.com/@alasdair-braxton-621739) on [Pexels](https://www.pexels.com)
-
 ## Why Get an eSIM for Scotland
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-scotland/body_1.jpg)

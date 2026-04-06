@@ -15,8 +15,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Thilina Alagiyawanna](https://www.pexels.com/@thilina-alagiyawanna-3266092) on [Pexels](https://www.pexels.com)
-
 ## Why Get an eSIM for Sri Lanka
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-sri-lanka/body_1.jpg)

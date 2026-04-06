@@ -13,7 +13,6 @@ categories:
   - "eSIM Guide"
 showTableOfContents: true
 ---
-Photo by [kevin grieve](https://www.pexels.com/@kevin-grieve-99378594) on [Pexels](https://www.pexels.com)
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>

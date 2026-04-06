@@ -15,8 +15,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Robin Ramos](https://www.pexels.com/@robin-ramos-3194014) on [Pexels](https://www.pexels.com)
-
 Traveling to Colombia offers a unique blend of culture, history, and natural beauty. One of the essential aspects of your trip will be staying connected, whether for navigation, communication, or sharing your experiences. An eSIM can be a convenient solution, allowing you to access mobile data without the need for a physical SIM card. 
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"

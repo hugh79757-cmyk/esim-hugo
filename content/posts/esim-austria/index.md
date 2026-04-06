@@ -15,8 +15,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [David Brtan](https://www.pexels.com/@david-brtan-3913297) on [Pexels](https://www.pexels.com)
-
 ## Why Get an eSIM for Austria
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-austria/body_1.jpg)
