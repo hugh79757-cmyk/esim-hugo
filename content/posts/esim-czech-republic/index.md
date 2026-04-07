@@ -110,7 +110,7 @@ To ensure you make the most of your eSIM while in the Czech Republic, consider t
 By following these tips, you can stay connected throughout your trip to the Czech Republic, ensuring you have access to all the information you need while exploring this beautiful country.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![1 GB Czech Republic travel eSIM valid for 7 days](https://cdn.airalo.com/images/d1a9c801-3f0a-475f-a172-21b6c413e074.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=8212&u=https%3A%2F%2Fwww.airalo.com%2Fczech-republic-esim%2Fprosim-7days-1gb&intsrc=CATF_15506)
 

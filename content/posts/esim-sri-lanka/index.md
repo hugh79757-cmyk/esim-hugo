@@ -97,7 +97,7 @@ Lastly, always monitor your data usage to avoid exceeding your plan limits. Many
 </div>
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![1 GB Sri Lanka travel eSIM valid for 7 days](https://cdn.airalo.com/images/703987f2-370c-4506-b187-3a9dc021a9df.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6733&u=https%3A%2F%2Fwww.airalo.com%2Fsri-lanka-esim%2Fella-7days-1gb&intsrc=CATF_15506)
 

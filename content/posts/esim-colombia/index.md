@@ -102,7 +102,7 @@ Lastly, ensure that your phone settings are optimized for data usage. Disable au
  an eSIM offers a practical solution for staying connected while exploring Colombia. With various plans available to suit different needs, you can easily find an option that works for you. By following the installation steps and tips for efficient usage, you can enhance your travel experience and enjoy everything Colombia has to offer.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![1 GB Colombia travel eSIM valid for 7 days](https://cdn.airalo.com/images/a5111b62-0467-40d8-bb07-2987137b4984.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=7300&u=https%3A%2F%2Fwww.airalo.com%2Fcolombia-esim%2Fchimba-7days-1gb&intsrc=CATF_15506)
 

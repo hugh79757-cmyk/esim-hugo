@@ -129,7 +129,7 @@ To maximize your connectivity while traveling in the United States, consider the
 By following these practices, you can ensure a smooth and connected experience during your travels in the United States.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![1 GB United States travel eSIM valid for 7 days](https://cdn.airalo.com/images/b521f323-77ee-41cf-9b6f-7cf7aa394ad7.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4776&u=https%3A%2F%2Fwww.airalo.com%2Funited-states-esim%2Fchange-7days-1gb&intsrc=CATF_15506)
 

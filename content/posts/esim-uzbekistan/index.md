@@ -94,7 +94,7 @@ To make the most of your mobile experience in Uzbekistan, consider these practic
 By selecting the right eSIM plan and following these tips, you can enjoy seamless connectivity throughout your travels in Uzbekistan, enhancing your overall experience.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![1 GB Uzbekistan travel eSIM valid for 7 days](https://cdn.airalo.com/images/a14c9c21-9abe-4514-af5c-e9f7733782e2.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3906&u=https%3A%2F%2Fwww.airalo.com%2Fuzbekistan-esim%2Fuzbeknet-7days-1gb&intsrc=CATF_15506)
 

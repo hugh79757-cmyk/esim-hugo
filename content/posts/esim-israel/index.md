@@ -105,7 +105,7 @@ To ensure you remain connected throughout your travels in Israel, consider the f
 By following these tips and selecting an appropriate eSIM plan, you can enjoy seamless connectivity during your travels in Israel, making your trip more enjoyable and efficient.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![1 GB Israel travel eSIM valid for 7 days](https://cdn.airalo.com/images/1c6c9b8b-b9d8-4a26-ad7f-cf5abbdf2d85.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4173&u=https%3A%2F%2Fwww.airalo.com%2Fisrael-esim%2Fannatel-7days-1gb&intsrc=CATF_15506)
 

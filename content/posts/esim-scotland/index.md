@@ -108,7 +108,7 @@ To make the most of your eSIM while traveling in Scotland, consider these practi
 By following these tips, you can ensure a seamless experience while staying connected during your travels in Scotland.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![1 GB Scotland travel eSIM valid for 7 days](https://cdn.airalo.com/images/4a88e0fd-5ae9-4de0-a2f9-1b9e8ddf8685.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4097&u=https%3A%2F%2Fwww.airalo.com%2Fscotland-esim%2Fnessietel-7days-1gb&intsrc=CATF_15506)
 

@@ -105,7 +105,7 @@ To make the most of your eSIM experience in Iceland, consider these practical ti
 By following these tips, you can ensure a seamless and connected experience while exploring the wonders of Iceland.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![1 GB Iceland travel eSIM valid for 7 days](https://cdn.airalo.com/images/262e400a-7df3-4c6f-a235-1d8a2480a3b0.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4090&u=https%3A%2F%2Fwww.airalo.com%2Ficeland-esim%2Fnenna-mobile-7days-1gb&intsrc=CATF_15506)
 

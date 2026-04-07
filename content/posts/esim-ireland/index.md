@@ -103,7 +103,7 @@ To make the most of your eSIM experience while traveling in Ireland, consider th
 By following these tips, you can ensure a seamless and connected experience during your travels in Ireland.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![1 GB Ireland travel eSIM valid for 7 days](https://cdn.airalo.com/images/f9d629b5-0eb6-40de-a893-74e374f79418.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4066&u=https%3A%2F%2Fwww.airalo.com%2Fireland-esim%2Ffailte-7days-1gb&intsrc=CATF_15506)
 
