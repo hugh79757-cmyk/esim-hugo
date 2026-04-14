@@ -173,7 +173,7 @@ From **$6**
 
 [![3 GB Turkey travel eSIM valid for 30 days](https://cdn.airalo.com/images/9fde75ba-bccd-4cc4-bf05-9bb99c2def56.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3432&u=https%3A%2F%2Fwww.airalo.com%2Fturkey-esim%2Fmerhaba-30days-3gb&intsrc=CATF_15506)
 
-**[3 GB Turkey travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3432&u=https%3A%2F%2Fwww.airalo.com%2Fturkey-esim%2Fmerhaba-30days-3gb&intsrc=CATF_15506)** <span class="badge">-19%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3432&u=https%3A%2F%2Fwww.airalo.com%2Fturkey-esim%2Fmerhaba-30days-3gb&intsrc=CATF_15506">3 GB Turkey travel eSIM valid for 30 days</a>** <span class="badge">-19%</span>
 
 _eSIM Plan_
 
@@ -185,7 +185,7 @@ From **$6**
 
 [![5 GB Turkey travel eSIM valid for 30 days](https://cdn.airalo.com/images/b5fa7b26-16af-4be3-934c-80c416f62118.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3434&u=https%3A%2F%2Fwww.airalo.com%2Fturkey-esim%2Fmerhaba-30days-5gb&intsrc=CATF_15506)
 
-**[5 GB Turkey travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3434&u=https%3A%2F%2Fwww.airalo.com%2Fturkey-esim%2Fmerhaba-30days-5gb&intsrc=CATF_15506)** <span class="badge">-17%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3434&u=https%3A%2F%2Fwww.airalo.com%2Fturkey-esim%2Fmerhaba-30days-5gb&intsrc=CATF_15506">5 GB Turkey travel eSIM valid for 30 days</a>** <span class="badge">-17%</span>
 
 _eSIM Plan_
 
@@ -197,7 +197,7 @@ From **$10**
 
 [![10 GB Turkey travel eSIM valid for 30 days](https://cdn.airalo.com/images/bc87a67a-9448-4877-a1e0-db13119a7bf4.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3436&u=https%3A%2F%2Fwww.airalo.com%2Fturkey-esim%2Fmerhaba-30days-10gb&intsrc=CATF_15506)
 
-**[10 GB Turkey travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3436&u=https%3A%2F%2Fwww.airalo.com%2Fturkey-esim%2Fmerhaba-30days-10gb&intsrc=CATF_15506)** <span class="badge">-14%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3436&u=https%3A%2F%2Fwww.airalo.com%2Fturkey-esim%2Fmerhaba-30days-10gb&intsrc=CATF_15506">10 GB Turkey travel eSIM valid for 30 days</a>** <span class="badge">-14%</span>
 
 _eSIM Plan_
 
@@ -209,7 +209,7 @@ From **$16**
 
 [![20 GB Turkey travel eSIM valid for 30 days](https://cdn.airalo.com/images/a4dd8647-cf95-4963-b46e-8a39422558dc.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4626&u=https%3A%2F%2Fwww.airalo.com%2Fturkey-esim%2Fmerhaba-30days-20gb&intsrc=CATF_15506)
 
-**[20 GB Turkey travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4626&u=https%3A%2F%2Fwww.airalo.com%2Fturkey-esim%2Fmerhaba-30days-20gb&intsrc=CATF_15506)** <span class="badge">-13%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4626&u=https%3A%2F%2Fwww.airalo.com%2Fturkey-esim%2Fmerhaba-30days-20gb&intsrc=CATF_15506">20 GB Turkey travel eSIM valid for 30 days</a>** <span class="badge">-13%</span>
 
 _eSIM Plan_
 

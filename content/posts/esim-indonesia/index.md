@@ -169,7 +169,7 @@ From **$7**
 
 [![3 GB Indonesia travel eSIM valid for 30 days](https://cdn.airalo.com/images/7637393f-4772-4ec0-aa31-76a2a8b17ee3.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6645&u=https%3A%2F%2Fwww.airalo.com%2Findonesia-esim%2Findotel-30days-3gb&intsrc=CATF_15506)
 
-**[3 GB Indonesia travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6645&u=https%3A%2F%2Fwww.airalo.com%2Findonesia-esim%2Findotel-30days-3gb&intsrc=CATF_15506)** <span class="badge">-18%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6645&u=https%3A%2F%2Fwww.airalo.com%2Findonesia-esim%2Findotel-30days-3gb&intsrc=CATF_15506">3 GB Indonesia travel eSIM valid for 30 days</a>** <span class="badge">-18%</span>
 
 _eSIM Plan_
 
@@ -181,7 +181,7 @@ From **$9**
 
 [![5 GB Indonesia travel eSIM valid for 30 days](https://cdn.airalo.com/images/7ce79528-f7b3-4a9f-897d-ac20520fe40f.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6647&u=https%3A%2F%2Fwww.airalo.com%2Findonesia-esim%2Findotel-30days-5gb&intsrc=CATF_15506)
 
-**[5 GB Indonesia travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6647&u=https%3A%2F%2Fwww.airalo.com%2Findonesia-esim%2Findotel-30days-5gb&intsrc=CATF_15506)** <span class="badge">-15%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6647&u=https%3A%2F%2Fwww.airalo.com%2Findonesia-esim%2Findotel-30days-5gb&intsrc=CATF_15506">5 GB Indonesia travel eSIM valid for 30 days</a>** <span class="badge">-15%</span>
 
 _eSIM Plan_
 
@@ -193,7 +193,7 @@ From **$14**
 
 [![10 GB Indonesia travel eSIM valid for 30 days](https://cdn.airalo.com/images/7772b9a1-3d7d-4a90-b0e5-ba508289cf23.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6649&u=https%3A%2F%2Fwww.airalo.com%2Findonesia-esim%2Findotel-30days-10gb&intsrc=CATF_15506)
 
-**[10 GB Indonesia travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6649&u=https%3A%2F%2Fwww.airalo.com%2Findonesia-esim%2Findotel-30days-10gb&intsrc=CATF_15506)** <span class="badge">-11%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6649&u=https%3A%2F%2Fwww.airalo.com%2Findonesia-esim%2Findotel-30days-10gb&intsrc=CATF_15506">10 GB Indonesia travel eSIM valid for 30 days</a>** <span class="badge">-11%</span>
 
 _eSIM Plan_
 
@@ -217,7 +217,7 @@ From **$35**
 
 [![20 GB Indonesia travel eSIM valid for 30 days](https://cdn.airalo.com/images/d251f546-234a-4102-ae8a-b69bb859ab2a.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6651&u=https%3A%2F%2Fwww.airalo.com%2Findonesia-esim%2Findotel-30days-20gb&intsrc=CATF_15506)
 
-**[20 GB Indonesia travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6651&u=https%3A%2F%2Fwww.airalo.com%2Findonesia-esim%2Findotel-30days-20gb&intsrc=CATF_15506)** <span class="badge">-12%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6651&u=https%3A%2F%2Fwww.airalo.com%2Findonesia-esim%2Findotel-30days-20gb&intsrc=CATF_15506">20 GB Indonesia travel eSIM valid for 30 days</a>** <span class="badge">-12%</span>
 
 _eSIM Plan_
 

@@ -173,7 +173,7 @@ From **$8**
 
 [![Thailand travel eSIM | 50 GB, 100 mins of local calls valid for 10 days](https://cdn.airalo.com/images/0940904d-5ab9-493e-b1f4-f4ad2aed02f6.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6854&u=https%3A%2F%2Fwww.airalo.com%2Fthailand-esim%2Fdtac-thailand-10days-50gb&intsrc=CATF_15506)
 
-**[Thailand travel eSIM | 50 GB, 100 mins of local calls valid for 10 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6854&u=https%3A%2F%2Fwww.airalo.com%2Fthailand-esim%2Fdtac-thailand-10days-50gb&intsrc=CATF_15506)** <span class="badge">-10%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6854&u=https%3A%2F%2Fwww.airalo.com%2Fthailand-esim%2Fdtac-thailand-10days-50gb&intsrc=CATF_15506">Thailand travel eSIM | 50 GB, 100 mins of local calls valid for 10 days</a>** <span class="badge">-10%</span>
 
 _eSIM Plan_
 
@@ -209,7 +209,7 @@ From **$18**
 
 [![Thailand travel eSIM | Unlimited GB, unlimited mins of local calls valid for 15 days](https://cdn.airalo.com/images/832fc788-51e0-4982-92ec-30caba23ff4b.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6853&u=https%3A%2F%2Fwww.airalo.com%2Fthailand-esim%2Fdtac-thailand-unlimited&intsrc=CATF_15506)
 
-**[Thailand travel eSIM | Unlimited GB, unlimited mins of local calls valid for 15 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6853&u=https%3A%2F%2Fwww.airalo.com%2Fthailand-esim%2Fdtac-thailand-unlimited&intsrc=CATF_15506)** <span class="badge">-8%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6853&u=https%3A%2F%2Fwww.airalo.com%2Fthailand-esim%2Fdtac-thailand-unlimited&intsrc=CATF_15506">Thailand travel eSIM | Unlimited GB, unlimited mins of local calls valid for 15 days</a>** <span class="badge">-8%</span>
 
 _eSIM Plan_
 

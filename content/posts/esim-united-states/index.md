@@ -169,7 +169,7 @@ From **$7**
 
 [![3 GB United States travel eSIM valid for 30 days](https://cdn.airalo.com/images/de695318-0608-441f-bd0d-2c51418df41a.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4781&u=https%3A%2F%2Fwww.airalo.com%2Funited-states-esim%2Fchange-30days-3gb&intsrc=CATF_15506)
 
-**[3 GB United States travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4781&u=https%3A%2F%2Fwww.airalo.com%2Funited-states-esim%2Fchange-30days-3gb&intsrc=CATF_15506)** <span class="badge">-18%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4781&u=https%3A%2F%2Fwww.airalo.com%2Funited-states-esim%2Fchange-30days-3gb&intsrc=CATF_15506">3 GB United States travel eSIM valid for 30 days</a>** <span class="badge">-18%</span>
 
 _eSIM Plan_
 
@@ -193,7 +193,7 @@ From **$12**
 
 [![5 GB United States travel eSIM valid for 30 days](https://cdn.airalo.com/images/015d3604-3c3a-4e8a-a087-0ec7cccadf3c.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4783&u=https%3A%2F%2Fwww.airalo.com%2Funited-states-esim%2Fchange-30days-5gb&intsrc=CATF_15506)
 
-**[5 GB United States travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4783&u=https%3A%2F%2Fwww.airalo.com%2Funited-states-esim%2Fchange-30days-5gb&intsrc=CATF_15506)** <span class="badge">-12%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4783&u=https%3A%2F%2Fwww.airalo.com%2Funited-states-esim%2Fchange-30days-5gb&intsrc=CATF_15506">5 GB United States travel eSIM valid for 30 days</a>** <span class="badge">-12%</span>
 
 _eSIM Plan_
 

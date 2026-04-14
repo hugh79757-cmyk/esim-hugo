@@ -137,7 +137,7 @@ By following these tips and choosing the right eSIM plan, you’ll be well-equip
 
 [![Highland Whisky Distilleries Shore Trip from Invergordon Cruise Port](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0c/7e/0e.jpg)](https://www.viator.com/tours/Invergordon/Highland-Whisky-Distilleries-Shore-Trip-from-Invergordon-Cruise-Port/d4481-122150P26?pid=P00295226&mcid=42383&medium=link)
 
-**[Highland Whisky Distilleries Shore Trip from Invergordon Cruise Port](https://www.viator.com/tours/Invergordon/Highland-Whisky-Distilleries-Shore-Trip-from-Invergordon-Cruise-Port/d4481-122150P26?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-14%</span>
+**<a href="https://www.viator.com/tours/Invergordon/Highland-Whisky-Distilleries-Shore-Trip-from-Invergordon-Cruise-Port/d4481-122150P26?pid=P00295226&mcid=42383&medium=link">Highland Whisky Distilleries Shore Trip from Invergordon Cruise Port</a>** <span class="badge">-14%</span>
 
 _Full-day Tours_
 
@@ -149,7 +149,7 @@ From **$786**
 
 [![Orkney Ancient Tomb And Coastal Heritage Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/ba/80/47/caption.jpg)](https://www.viator.com/tours/Scotland/Orkney-Ancient-Tomb-And-Coastal-Heritage-Tour/d732-5527948P6?pid=P00295226&mcid=42383&medium=link)
 
-**[Orkney Ancient Tomb And Coastal Heritage Tour](https://www.viator.com/tours/Scotland/Orkney-Ancient-Tomb-And-Coastal-Heritage-Tour/d732-5527948P6?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Scotland/Orkney-Ancient-Tomb-And-Coastal-Heritage-Tour/d732-5527948P6?pid=P00295226&mcid=42383&medium=link">Orkney Ancient Tomb And Coastal Heritage Tour</a>** <span class="badge">-10%</span>
 
 _Day Trips_
 

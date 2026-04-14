@@ -172,7 +172,7 @@ From **$6**
 
 [![3 GB Spain travel eSIM valid for 30 days](https://cdn.airalo.com/images/5cf291cc-887c-4a09-b7c3-be6924b6aaf9.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3715&u=https%3A%2F%2Fwww.airalo.com%2Fspain-esim%2Fguay-mobile-30days-3gb&intsrc=CATF_15506)
 
-**[3 GB Spain travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3715&u=https%3A%2F%2Fwww.airalo.com%2Fspain-esim%2Fguay-mobile-30days-3gb&intsrc=CATF_15506)** <span class="badge">-18%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3715&u=https%3A%2F%2Fwww.airalo.com%2Fspain-esim%2Fguay-mobile-30days-3gb&intsrc=CATF_15506">3 GB Spain travel eSIM valid for 30 days</a>** <span class="badge">-18%</span>
 
 _eSIM Plan_
 
@@ -184,7 +184,7 @@ From **$7**
 
 [![5 GB Spain travel eSIM valid for 30 days](https://cdn.airalo.com/images/f9fb15ad-d4fe-4f66-8061-8339114715e5.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3717&u=https%3A%2F%2Fwww.airalo.com%2Fspain-esim%2Fguay-mobile-30days-5gb&intsrc=CATF_15506)
 
-**[5 GB Spain travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3717&u=https%3A%2F%2Fwww.airalo.com%2Fspain-esim%2Fguay-mobile-30days-5gb&intsrc=CATF_15506)** <span class="badge">-13%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3717&u=https%3A%2F%2Fwww.airalo.com%2Fspain-esim%2Fguay-mobile-30days-5gb&intsrc=CATF_15506">5 GB Spain travel eSIM valid for 30 days</a>** <span class="badge">-13%</span>
 
 _eSIM Plan_
 
@@ -196,7 +196,7 @@ From **$10**
 
 [![10 GB Spain travel eSIM valid for 30 days](https://cdn.airalo.com/images/ff533691-c113-481f-97c7-d1eb78f634d6.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3719&u=https%3A%2F%2Fwww.airalo.com%2Fspain-esim%2Fguay-mobile-30days-10gb&intsrc=CATF_15506)
 
-**[10 GB Spain travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3719&u=https%3A%2F%2Fwww.airalo.com%2Fspain-esim%2Fguay-mobile-30days-10gb&intsrc=CATF_15506)** <span class="badge">-14%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=3719&u=https%3A%2F%2Fwww.airalo.com%2Fspain-esim%2Fguay-mobile-30days-10gb&intsrc=CATF_15506">10 GB Spain travel eSIM valid for 30 days</a>** <span class="badge">-14%</span>
 
 _eSIM Plan_
 
@@ -208,7 +208,7 @@ From **$16**
 
 [![20 GB Spain travel eSIM valid for 30 days](https://cdn.airalo.com/images/3d42d46c-9ff9-4aab-ad8a-08c35c79aaa0.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4618&u=https%3A%2F%2Fwww.airalo.com%2Fspain-esim%2Fguay-mobile-30days-20gb&intsrc=CATF_15506)
 
-**[20 GB Spain travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4618&u=https%3A%2F%2Fwww.airalo.com%2Fspain-esim%2Fguay-mobile-30days-20gb&intsrc=CATF_15506)** <span class="badge">-13%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=4618&u=https%3A%2F%2Fwww.airalo.com%2Fspain-esim%2Fguay-mobile-30days-20gb&intsrc=CATF_15506">20 GB Spain travel eSIM valid for 30 days</a>** <span class="badge">-13%</span>
 
 _eSIM Plan_
 

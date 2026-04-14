@@ -159,7 +159,7 @@ By taking these steps, you can stay connected throughout your journey in Egypt, 
 
 [![1 GB Egypt travel eSIM valid for 7 days](https://cdn.airalo.com/images/5c51fe90-1f16-4df3-b602-656ad31798e2.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=5711&u=https%3A%2F%2Fwww.airalo.com%2Fegypt-esim%2Fgiza-mobile-7days-1gb&intsrc=CATF_15506)
 
-**[1 GB Egypt travel eSIM valid for 7 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=5711&u=https%3A%2F%2Fwww.airalo.com%2Fegypt-esim%2Fgiza-mobile-7days-1gb&intsrc=CATF_15506)** <span class="badge">-21%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=5711&u=https%3A%2F%2Fwww.airalo.com%2Fegypt-esim%2Fgiza-mobile-7days-1gb&intsrc=CATF_15506">1 GB Egypt travel eSIM valid for 7 days</a>** <span class="badge">-21%</span>
 
 _eSIM Plan_
 
@@ -171,7 +171,7 @@ From **$6**
 
 [![2 GB Egypt travel eSIM valid for 15 days](https://cdn.airalo.com/images/a7ca0738-69db-4a82-9ba2-0fcc5dd04590.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=5713&u=https%3A%2F%2Fwww.airalo.com%2Fegypt-esim%2Fgiza-mobile-15days-2gb&intsrc=CATF_15506)
 
-**[2 GB Egypt travel eSIM valid for 15 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=5713&u=https%3A%2F%2Fwww.airalo.com%2Fegypt-esim%2Fgiza-mobile-15days-2gb&intsrc=CATF_15506)** <span class="badge">-16%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=5713&u=https%3A%2F%2Fwww.airalo.com%2Fegypt-esim%2Fgiza-mobile-15days-2gb&intsrc=CATF_15506">2 GB Egypt travel eSIM valid for 15 days</a>** <span class="badge">-16%</span>
 
 _eSIM Plan_
 
@@ -183,7 +183,7 @@ From **$10**
 
 [![3 GB Egypt travel eSIM valid for 30 days](https://cdn.airalo.com/images/377fd0ad-e87a-48b3-ad28-756fa52388b2.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=5715&u=https%3A%2F%2Fwww.airalo.com%2Fegypt-esim%2Fgiza-mobile-30days-3gb&intsrc=CATF_15506)
 
-**[3 GB Egypt travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=5715&u=https%3A%2F%2Fwww.airalo.com%2Fegypt-esim%2Fgiza-mobile-30days-3gb&intsrc=CATF_15506)** <span class="badge">-17%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=5715&u=https%3A%2F%2Fwww.airalo.com%2Fegypt-esim%2Fgiza-mobile-30days-3gb&intsrc=CATF_15506">3 GB Egypt travel eSIM valid for 30 days</a>** <span class="badge">-17%</span>
 
 _eSIM Plan_
 
@@ -195,7 +195,7 @@ From **$14**
 
 [![5 GB Egypt travel eSIM valid for 30 days](https://cdn.airalo.com/images/a23d0ad9-2ac6-47aa-bc3f-71bb227a8e69.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=5717&u=https%3A%2F%2Fwww.airalo.com%2Fegypt-esim%2Fgiza-mobile-30days-5gb&intsrc=CATF_15506)
 
-**[5 GB Egypt travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=5717&u=https%3A%2F%2Fwww.airalo.com%2Fegypt-esim%2Fgiza-mobile-30days-5gb&intsrc=CATF_15506)** <span class="badge">-13%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=5717&u=https%3A%2F%2Fwww.airalo.com%2Fegypt-esim%2Fgiza-mobile-30days-5gb&intsrc=CATF_15506">5 GB Egypt travel eSIM valid for 30 days</a>** <span class="badge">-13%</span>
 
 _eSIM Plan_
 
@@ -219,7 +219,7 @@ From **$38**
 
 [![10 GB Egypt travel eSIM valid for 30 days](https://cdn.airalo.com/images/464619d7-91fc-47c6-a669-831b50c9155b.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6109&u=https%3A%2F%2Fwww.airalo.com%2Fegypt-esim%2Fgiza-mobile-30days-10gb&intsrc=CATF_15506)
 
-**[10 GB Egypt travel eSIM valid for 30 days](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6109&u=https%3A%2F%2Fwww.airalo.com%2Fegypt-esim%2Fgiza-mobile-30days-10gb&intsrc=CATF_15506)** <span class="badge">-12%</span>
+**<a href="https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=6109&u=https%3A%2F%2Fwww.airalo.com%2Fegypt-esim%2Fgiza-mobile-30days-10gb&intsrc=CATF_15506">10 GB Egypt travel eSIM valid for 30 days</a>** <span class="badge">-12%</span>
 
 _eSIM Plan_
 
