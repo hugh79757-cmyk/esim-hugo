@@ -2,7 +2,6 @@
 title: "Costa Rica eSIM: Your Essential Guide"
 date: 2026-04-07T15:52:22+09:00
 description: "Compare eSIM plans for Costa Rica: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-costa-rica/cover.jpg"
 featureimagecredit: "Photo by [Mario Spencer](https://www.pexels.com/@spencphoto) on [Pexels](https://www.pexels.com)"
 tags:
   - "Costa Rica"

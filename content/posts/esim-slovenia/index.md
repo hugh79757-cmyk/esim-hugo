@@ -2,7 +2,6 @@
 title: "Slovenia eSIM: A Comprehensive Guide for Travelers"
 date: 2026-04-13T10:45:35+09:00
 description: "Compare eSIM plans for Slovenia: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-slovenia/cover.jpg"
 featureimagecredit: "Photo by [Alexander Nadrilyanski](https://www.pexels.com/@aleksandar069) on [Pexels](https://www.pexels.com)"
 tags:
   - "Slovenia"

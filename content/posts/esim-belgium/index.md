@@ -2,7 +2,6 @@
 title: "Belgium eSIM: A Comprehensive Guide for Travelers"
 date: 2026-04-11T12:51:39+09:00
 description: "Compare eSIM plans for Belgium: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-belgium/cover.jpg"
 featureimagecredit: "Photo by [Juli Sure](https://www.pexels.com/@juli-sure-1422110) on [Pexels](https://www.pexels.com)"
 tags:
   - "Belgium"

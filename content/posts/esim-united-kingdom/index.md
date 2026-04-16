@@ -2,7 +2,6 @@
 title: "Best eSIM Plans for United Kingdom: Compare Prices and Stay Connected"
 date: 2026-04-01T23:16:50+09:00
 description: "Best eSIM plans for United Kingdom travel. Compare 13 plans by price, data, and validity. Installation guide and tips included."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-united-kingdom/cover.jpg"
 tags:
   - "United Kingdom"
   - "eSIM"

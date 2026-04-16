@@ -2,7 +2,6 @@
 title: "Austria eSIM: Your Essential Guide for Connectivity"
 date: 2026-04-06T15:45:36+09:00
 description: "Compare eSIM plans for Austria: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-austria/cover.jpg"
 featureimagecaption: "Photo by [David Brtan](https://www.pexels.com/@david-brtan-3913297) on [Pexels](https://www.pexels.com)"
 tags:
   - "Austria"

@@ -2,7 +2,6 @@
 title: "Brazil eSIM: Your Essential Guide for Staying Connected"
 date: 2026-04-08T12:53:27+09:00
 description: "Compare eSIM plans for Brazil: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-brazil/cover.jpg"
 featureimagecredit: "Photo by [Kevyn Costa](https://www.pexels.com/@kevynlourencofotografia) on [Pexels](https://www.pexels.com)"
 tags:
   - "Brazil"

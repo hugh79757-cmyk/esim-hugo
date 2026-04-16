@@ -2,7 +2,6 @@
 title: "Latvia eSIM: A Comprehensive Guide for Travelers"
 date: 2026-04-12T09:52:39+09:00
 description: "Compare eSIM plans for Latvia: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-latvia/cover.jpg"
 featureimagecredit: "Photo by [Efrem  Efre](https://www.pexels.com/@efrem-efre-2786187) on [Pexels](https://www.pexels.com)"
 tags:
   - "Latvia"

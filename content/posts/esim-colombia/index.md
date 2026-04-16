@@ -2,7 +2,6 @@
 title: "Colombia eSIM: Your Complete Guide for Travelers"
 date: 2026-04-06T09:45:42+09:00
 description: "Compare eSIM plans for Colombia: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-colombia/cover.jpg"
 featureimagecaption: "Photo by [Robin Ramos](https://www.pexels.com/@robin-ramos-3194014) on [Pexels](https://www.pexels.com)"
 tags:
   - "Colombia"

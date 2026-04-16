@@ -2,7 +2,6 @@
 title: "Mexico eSIM: A Comprehensive Guide for Travelers"
 date: 2026-04-08T15:45:53+09:00
 description: "Compare eSIM plans for Mexico: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-mexico/cover.jpg"
 featureimagecredit: "Photo by [Israyosoy S.](https://www.pexels.com/@israyosoy) on [Pexels](https://www.pexels.com)"
 tags:
   - "Mexico"

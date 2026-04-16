@@ -2,7 +2,6 @@
 title: "Oman eSIM: A Comprehensive Guide for Travelers"
 date: 2026-04-11T09:57:27+09:00
 description: "Compare eSIM plans for Oman: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-oman/cover.jpg"
 featureimagecredit: "Photo by [Mauricio  Krupka Buendia](https://www.pexels.com/@mauricio-krupka-buendia-1141363850) on [Pexels](https://www.pexels.com)"
 tags:
   - "Oman"

@@ -2,7 +2,6 @@
 title: "Bahamas eSIM: Your Guide to Staying Connected"
 date: 2026-04-07T12:52:52+09:00
 description: "Compare eSIM plans for Bahamas: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-bahamas/cover.jpg"
 featureimagecredit: "Photo by [Татьяна Контеева](https://www.pexels.com/@2375361) on [Pexels](https://www.pexels.com)"
 tags:
   - "Bahamas"

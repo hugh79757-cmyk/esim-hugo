@@ -2,7 +2,6 @@
 title: "Global eSIM: Your Guide to Staying Connected"
 date: 2026-04-08T09:55:08+09:00
 description: "Compare eSIM plans for Global: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-global/cover.jpg"
 featureimagecredit: "Photo by [Leeloo The First](https://www.pexels.com/@leeloothefirst) on [Pexels](https://www.pexels.com)"
 tags:
   - "Global"

@@ -2,7 +2,6 @@
 title: "Panama eSIM: Your Comprehensive Guide for Travelers"
 date: 2026-04-08T09:45:38+09:00
 description: "Compare eSIM plans for Panama: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-panama/cover.jpg"
 featureimagecredit: "Photo by [Kelly](https://www.pexels.com/@kelly) on [Pexels](https://www.pexels.com)"
 tags:
   - "Panama"

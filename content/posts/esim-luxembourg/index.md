@@ -2,7 +2,6 @@
 title: "Luxembourg eSIM: Your Guide to Staying Connected"
 date: 2026-04-10T22:55:01+09:00
 description: "Compare eSIM plans for Luxembourg: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-luxembourg/cover.jpg"
 featureimagecredit: "Photo by [Vish Pix](https://www.pexels.com/@vishpix) on [Pexels](https://www.pexels.com)"
 tags:
   - "Luxembourg"

@@ -2,7 +2,6 @@
 title: "Jamaica eSIM: Your Essential Guide for Staying Connected"
 date: 2026-04-07T18:46:01+09:00
 description: "Compare eSIM plans for Jamaica: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-jamaica/cover.jpg"
 featureimagecredit: "Photo by [Sean Witter](https://www.pexels.com/@sean-witter-3054472) on [Pexels](https://www.pexels.com)"
 tags:
   - "Jamaica"

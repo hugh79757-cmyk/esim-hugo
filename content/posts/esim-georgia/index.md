@@ -2,7 +2,6 @@
 title: "Georgia eSIM: A Comprehensive Guide for Travelers"
 date: 2026-04-09T09:45:45+09:00
 description: "Compare eSIM plans for Georgia: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-georgia/cover.jpg"
 featureimagecredit: "Photo by [Dominik Gryzbon](https://www.pexels.com/@gryziu) on [Pexels](https://www.pexels.com)"
 tags:
   - "Georgia"

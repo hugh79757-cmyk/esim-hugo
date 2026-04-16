@@ -2,7 +2,6 @@
 title: "South Korea eSIM: A Comprehensive Guide for Travelers"
 date: 2026-04-09T12:52:24+09:00
 description: "Compare eSIM plans for South Korea: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-south-korea/cover.jpg"
 featureimagecredit: "Photo by [Jhany Blue](https://www.pexels.com/@jhany-blue-436502581) on [Pexels](https://www.pexels.com)"
 tags:
   - "South Korea"

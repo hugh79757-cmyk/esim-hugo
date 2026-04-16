@@ -2,7 +2,6 @@
 title: "Scotland eSIM: A Comprehensive Guide for Travelers"
 date: 2026-04-05T22:46:02+09:00
 description: "Compare eSIM plans for Scotland: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-scotland/cover.jpg"
 featureimagecaption: "Photo by [Alasdair  Braxton](https://www.pexels.com/@alasdair-braxton-621739) on [Pexels](https://www.pexels.com)"
 tags:
   - "Scotland"

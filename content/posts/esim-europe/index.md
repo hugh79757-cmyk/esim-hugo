@@ -2,7 +2,6 @@
 title: "Europe eSIM: Your Ultimate Guide for Traveling"
 date: 2026-04-09T12:45:55+09:00
 description: "Compare eSIM plans for Europe: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-europe/cover.jpg"
 featureimagecredit: "Photo by [Yanapi Senaud](https://unsplash.com/@yaanapi) on [Unsplash](https://unsplash.com)"
 tags:
   - "Europe"

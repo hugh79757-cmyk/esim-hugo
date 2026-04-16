@@ -2,7 +2,6 @@
 title: "Asia eSIM: A Comprehensive Guide for Travelers"
 date: 2026-04-10T18:46:04+09:00
 description: "Compare eSIM plans for Asia: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-asia/cover.jpg"
 featureimagecredit: "Photo by [Talha Kılıç](https://www.pexels.com/@talha-kilic-517654077) on [Pexels](https://www.pexels.com)"
 tags:
   - "Asia"

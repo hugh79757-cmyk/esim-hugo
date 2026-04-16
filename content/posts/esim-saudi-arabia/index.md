@@ -2,7 +2,6 @@
 title: "Saudi Arabia eSIM: A Comprehensive Guide for Travelers"
 date: 2026-04-09T15:45:48+09:00
 description: "Compare eSIM plans for Saudi Arabia: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-saudi-arabia/cover.jpg"
 featureimagecredit: "Photo by [Earth Photart](https://www.pexels.com/@earth-photart-2149767641) on [Pexels](https://www.pexels.com)"
 tags:
   - "Saudi Arabia"

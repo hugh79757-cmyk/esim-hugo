@@ -2,7 +2,6 @@
 title: "Finland eSIM: A Comprehensive Guide for Travelers"
 date: 2026-04-14T13:45:37+09:00
 description: "Compare eSIM plans for Finland: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-finland/cover.jpg"
 featureimagecredit: "Photo by [Teemu Matias](https://www.pexels.com/@teemu-matias-3049286) on [Pexels](https://www.pexels.com)"
 tags:
   - "Finland"

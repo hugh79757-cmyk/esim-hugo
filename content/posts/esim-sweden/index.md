@@ -2,7 +2,6 @@
 title: "Sweden eSIM: Your Guide to Staying Connected"
 date: 2026-04-12T09:45:45+09:00
 description: "Compare eSIM plans for Sweden: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-sweden/cover.jpg"
 featureimagecredit: "Photo by [Nik Nikolla](https://www.pexels.com/@nik-nikolla-3298473) on [Pexels](https://www.pexels.com)"
 tags:
   - "Sweden"

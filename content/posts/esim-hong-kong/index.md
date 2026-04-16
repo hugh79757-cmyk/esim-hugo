@@ -2,7 +2,6 @@
 title: "Hong Kong eSIM: A Comprehensive Guide for Travelers"
 date: 2026-04-14T10:51:48+09:00
 description: "Compare eSIM plans for Hong Kong: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-hong-kong/cover.jpg"
 featureimagecredit: "Photo by [Nextvoyage](https://www.pexels.com/@nextvoyage) on [Pexels](https://www.pexels.com)"
 tags:
   - "Hong Kong"

@@ -2,7 +2,6 @@
 title: "United Arab Emirates eSIM: Your Essential Guide for Travelers"
 date: 2026-04-13T16:46:05+09:00
 description: "Compare eSIM plans for United Arab Emirates: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-united-arab-emirates/cover.jpg"
 featureimagecredit: "Photo by [Mo Eid](https://www.pexels.com/@mo-eid-1268975) on [Pexels](https://www.pexels.com)"
 tags:
   - "United Arab Emirates"

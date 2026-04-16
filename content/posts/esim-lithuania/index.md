@@ -2,7 +2,6 @@
 title: "Lithuania eSIM: Your Guide to Staying Connected"
 date: 2026-04-12T10:51:59+09:00
 description: "Compare eSIM plans for Lithuania: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-lithuania/cover.jpg"
 featureimagecredit: "Photo by [Mr Alex Photography](https://www.pexels.com/@mralexphotography) on [Pexels](https://www.pexels.com)"
 tags:
   - "Lithuania"

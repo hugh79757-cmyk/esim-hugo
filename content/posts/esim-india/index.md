@@ -2,7 +2,6 @@
 title: "India eSIM: A Comprehensive Guide for Travelers"
 date: 2026-04-12T15:45:53+09:00
 description: "Compare eSIM plans for India: prices, data, coverage, and best value picks."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-india/cover.jpg"
 featureimagecredit: "Photo by [Roman Saienko](https://www.pexels.com/@roman-saienko-1867764487) on [Pexels](https://www.pexels.com)"
 tags:
   - "India"
