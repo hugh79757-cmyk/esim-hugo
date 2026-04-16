@@ -2,6 +2,7 @@
 title: "Czech Republic eSIM: Your Comprehensive Guide"
 date: 2026-04-05T18:46:06+09:00
 description: "Compare eSIM plans for Czech Republic: prices, data, coverage, and best value picks."
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-czech-republic/cover.jpg"
 featureimagecaption: "Photo by [Niklas Bahe](https://unsplash.com/@niklas_jpg) on [Unsplash](https://unsplash.com)"
 tags:
   - "Czech Republic"

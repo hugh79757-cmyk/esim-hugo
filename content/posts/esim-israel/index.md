@@ -2,6 +2,7 @@
 title: "Israel eSIM: A Comprehensive Guide for Travelers"
 date: 2026-04-06T09:52:42+09:00
 description: "Compare eSIM plans for Israel: prices, data, coverage, and best value picks."
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-israel/cover.jpg"
 featureimagecaption: "Photo by [Haley Black](https://www.pexels.com/@haleyve) on [Pexels](https://www.pexels.com)"
 tags:
   - "Israel"

@@ -2,6 +2,7 @@
 title: "United States eSIM: A Comprehensive Guide for Travelers"
 date: 2026-04-06T12:45:50+09:00
 description: "Compare eSIM plans for United States: prices, data, coverage, and best value picks."
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/esim-united-states/cover.jpg"
 featureimagecaption: "Photo by [Cody](https://www.pexels.com/@cody-157460211) on [Pexels](https://www.pexels.com)"
 tags:
   - "United States"
